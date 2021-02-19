@@ -1,0 +1,58 @@
+
+
+header{
+    padding: 10px;
+}
+  
+header, footer{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-bottom:3px solid magenta ;
+}
+
+
+img {
+    width: 20%;
+    height: 20%;
+    padding-top: 10px;
+  }
+
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+footer,header{
+    background-color: rgb(253, 192, 230);
+}
+
+h1.site-title{
+  color: white;
+}
+
+#my-image{
+    box-shadow:  2px 1px #000000;
+   
+}
+
+ul li{
+    list-style: square;
+}
+
+ul li:nth-child(odd){
+    background-color:#DEB841 ;
+}
+
+nav a{
+text-decoration: none;
+background-color: #7B5E7B;
+border-radius: 10px;
+padding: 10px;
+color: white
+}
+
+nav a:hover{
+    background:#B0228C ;
+}
+
